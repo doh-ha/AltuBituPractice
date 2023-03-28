@@ -1,0 +1,2 @@
+
+int CheckNum(string str){
